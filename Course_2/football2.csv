@@ -1,0 +1,353 @@
+year,O_D,Team,Tot Pts,RushYds,PassYds,TotYds
+2008,offense,New Orleans Saints,463,1594,4977,6571
+2008,offense,Arizona Cardinals,427,1178,4674,5852
+2008,offense,Atlanta Falcons,391,2443,3336,5779
+2008,offense,New York Giants,427,2518,3177,5695
+2008,offense,Green Bay Packers,419,1805,3813,5618
+2008,offense,Philadelphia Eagles,416,1697,3911,5608
+2008,offense,Carolina Panthers,414,2437,3158,5595
+2008,offense,Dallas Cowboys,362,1723,3789,5512
+2008,offense,Tampa Bay Buccaneers,361,1837,3619,5456
+2008,offense,Minnesota Vikings,379,2338,2956,5294
+2008,offense,Washington Redskins,265,2095,3025,5120
+2008,offense,San Francisco 49ers,339,1599,3379,4978
+2008,offense,Chicago Bears,375,1673,3061,4734
+2008,offense,St. Louis Rams,232,1649,2947,4596
+2008,offense,Seattle Seahawks,294,1768,2617,4385
+2008,offense,Detroit Lions,268,1332,2960,4292
+2009,offense,New Orleans Saints,510,2106,4355,6461
+2009,offense,Dallas Cowboys,361,2103,4287,6390
+2009,offense,Minnesota Vikings,470,1918,4156,6074
+2009,offense,Green Bay Packers,461,1885,4180,6065
+2009,offense,New York Giants,402,1837,4019,5856
+2009,offense,Philadelphia Eagles,429,1637,4089,5726
+2009,offense,Arizona Cardinals,375,1494,4016,5510
+2009,offense,Atlanta Falcons,363,1876,3571,5447
+2009,offense,Carolina Panthers,315,2498,2799,5297
+2009,offense,Seattle Seahawks,280,1566,3503,5069
+2009,offense,Washington Redskins,266,1510,3490,5000
+2009,offense,Chicago Bears,327,1492,3473,4965
+2009,offense,Detroit Lions,262,1616,3168,4784
+2009,offense,San Francisco 49ers,330,1600,3052,4652
+2009,offense,Tampa Bay Buccaneers,244,1627,2973,4600
+2009,offense,St. Louis Rams,175,1784,2686,4470
+2010,offense,Philadelphia Eagles,439,2324,3906,6230
+2010,offense,New York Giants,394,2200,3885,6085
+2010,offense,New Orleans Saints,384,1519,4441,5960
+2010,offense,Dallas Cowboys,394,1786,4042,5828
+2010,offense,Green Bay Packers,388,1606,4124,5730
+2010,offense,Atlanta Falcons,414,1891,3567,5458
+2010,offense,Detroit Lions,362,1613,3810,5423
+2010,offense,Washington Redskins,302,1461,3913,5374
+2010,offense,Tampa Bay Buccaneers,341,2001,3361,5362
+2010,offense,Minnesota Vikings,281,1942,3097,5039
+2010,offense,San Francisco 49ers,305,1657,3356,5013
+2010,offense,St. Louis Rams,289,1578,3268,4846
+2010,offense,Seattle Seahawks,310,1424,3341,4765
+2010,offense,Chicago Bears,334,1616,3015,4631
+2010,offense,Arizona Cardinals,289,1388,2921,4309
+2010,offense,Carolina Panthers,196,1846,2289,4135
+2011,offense,New Orleans Saints,547,2127,5347,7474
+2011,offense,Green Bay Packers,560,1558,4924,6482
+2011,offense,Philadelphia Eagles,396,2276,4110,6386
+2011,offense,Detroit Lions,474,1523,4814,6337
+2011,offense,Carolina Panthers,406,2408,3829,6237
+2011,offense,New York Giants,394,1427,4734,6161
+2011,offense,Atlanta Falcons,402,1834,4192,6026
+2011,offense,Dallas Cowboys,369,1807,4201,6008
+2011,offense,Washington Redskins,288,1614,3773,5387
+2011,offense,Minnesota Vikings,340,2318,2957,5275
+2011,offense,Arizona Cardinals,312,1625,3567,5192
+2011,offense,Tampa Bay Buccaneers,287,1458,3650,5108
+2011,offense,Chicago Bears,353,2015,3011,5026
+2011,offense,San Francisco 49ers,380,2044,2930,4974
+2011,offense,Seattle Seahawks,321,1756,3105,4861
+2011,offense,St. Louis Rams,193,1667,2870,4537
+2012,offense,New Orleans Saints,461,1577,4997,6574
+2012,offense,Detroit Lions,372,1613,4927,6540
+2012,offense,Washington Redskins,436,2709,3422,6131
+2012,offense,Dallas Cowboys,376,1265,4729,5994
+2012,offense,Atlanta Falcons,419,1397,4509,5906
+2012,offense,Tampa Bay Buccaneers,389,1837,3983,5820
+2012,offense,San Francisco 49ers,397,2491,3298,5789
+2012,offense,Carolina Panthers,357,2088,3683,5771
+2012,offense,Green Bay Packers,433,1702,4049,5751
+2012,offense,New York Giants,429,1862,3825,5687
+2012,offense,Philadelphia Eagles,280,1874,3791,5665
+2012,offense,Seattle Seahawks,412,2579,3031,5610
+2012,offense,Minnesota Vikings,379,2634,2751,5385
+2012,offense,St. Louis Rams,299,1714,3550,5264
+2012,offense,Chicago Bears,375,1970,2999,4969
+2012,offense,Arizona Cardinals,250,1204,3005,4209
+2013,offense,Philadelphia Eagles,442,2566,4110,6676
+2013,offense,Green Bay Packers,417,2136,4268,6404
+2013,offense,New Orleans Saints,414,1473,4918,6391
+2013,offense,Detroit Lions,395,1792,4482,6274
+2013,offense,Chicago Bears,445,1828,4281,6109
+2013,offense,Washington Redskins,334,2164,3751,5915
+2013,offense,Arizona Cardinals,379,1540,4002,5542
+2013,offense,Minnesota Vikings,391,2081,3427,5508
+2013,offense,Atlanta Falcons,353,1247,4243,5490
+2013,offense,Dallas Cowboys,439,1504,3954,5458
+2013,offense,Seattle Seahawks,417,2188,3236,5424
+2013,offense,San Francisco 49ers,406,2201,2979,5180
+2013,offense,Carolina Panthers,366,2026,3043,5069
+2013,offense,New York Giants,294,1332,3588,4920
+2013,offense,St. Louis Rams,348,1752,3125,4877
+2013,offense,Tampa Bay Buccaneers,288,1612,2820,4432
+2014,offense,New Orleans Saints,401,1818,4764,6582
+2014,offense,Philadelphia Eagles,474,1992,4356,6348
+2014,offense,Green Bay Packers,486,1917,4261,6178
+2014,offense,Dallas Cowboys,467,2354,3784,6138
+2014,offense,Atlanta Falcons,381,1498,4553,6051
+2014,offense,Seattle Seahawks,394,2762,3250,6012
+2014,offense,New York Giants,380,1603,4272,5875
+2014,offense,Washington Redskins,301,1691,4047,5738
+2014,offense,Carolina Panthers,339,2036,3511,5547
+2014,offense,Detroit Lions,321,1422,4030,5452
+2014,offense,San Francisco 49ers,306,2176,3063,5239
+2014,offense,Chicago Bears,319,1441,3792,5233
+2014,offense,Arizona Cardinals,310,1308,3808,5116
+2014,offense,Minnesota Vikings,325,1804,3244,5048
+2014,offense,St. Louis Rams,324,1635,3400,5035
+2014,offense,Tampa Bay Buccaneers,277,1375,3297,4672
+2015,offense,Arizona Cardinals,489,1917,4616,6533
+2015,offense,New Orleans Saints,408,1491,4970,6461
+2015,offense,Seattle Seahawks,423,2268,3790,6058
+2015,offense,Tampa Bay Buccaneers,342,2162,3852,6014
+2015,offense,Atlanta Falcons,339,1606,4379,5985
+2015,offense,New York Giants,420,1609,4343,5952
+2015,offense,Carolina Panthers,500,2282,3589,5871
+2015,offense,Philadelphia Eagles,377,1743,4087,5830
+2015,offense,Washington Redskins,388,1566,4095,5661
+2015,offense,Detroit Lions,358,1335,4212,5547
+2015,offense,Chicago Bears,335,1854,3660,5514
+2015,offense,Dallas Cowboys,275,1890,3471,5361
+2015,offense,Green Bay Packers,368,1850,3503,5353
+2015,offense,Minnesota Vikings,365,2211,2928,5139
+2015,offense,San Francisco 49ers,238,1544,3316,4860
+2015,offense,St. Louis Rams,280,1956,2805,4761
+2016,offense,New Orleans Saints,469,1742,5074,6816
+2016,offense,Atlanta Falcons,540,1928,4725,6653
+2016,offense,Washington Redskins,396,1696,4758,6454
+2016,offense,Dallas Cowboys,421,2396,3631,6027
+2016,offense,Green Bay Packers,432,1701,4199,5900
+2016,offense,Arizona Cardinals,418,1732,4136,5868
+2016,offense,Seattle Seahawks,354,1591,4124,5715
+2016,offense,Chicago Bears,279,1735,3969,5704
+2016,offense,Tampa Bay Buccaneers,354,1616,3926,5542
+2016,offense,Carolina Panthers,369,1814,3685,5499
+2016,offense,Detroit Lions,346,1310,4111,5421
+2016,offense,Philadelphia Eagles,367,1813,3585,5398
+2016,offense,New York Giants,310,1412,3879,5291
+2016,offense,Minnesota Vikings,327,1205,3836,5041
+2016,offense,San Francisco 49ers,309,2019,2911,4930
+2016,offense,Los Angeles Rams,224,1252,2951,4203
+2017,offense,New Orleans Saints,448,2070,4189,6259
+2017,offense,Philadelphia Eagles,457,2115,3737,5852
+2017,offense,Atlanta Falcons,353,1847,3990,5837
+2017,offense,Tampa Bay Buccaneers,335,1450,4366,5816
+2017,offense,Los Angeles Rams,478,1953,3831,5784
+2017,offense,Minnesota Vikings,382,1957,3753,5710
+2017,offense,San Francisco 49ers,331,1662,3925,5587
+2017,offense,Detroit Lions,410,1221,4183,5404
+2017,offense,Dallas Cowboys,354,2170,3141,5311
+2017,offense,Seattle Seahawks,366,1629,3657,5286
+2017,offense,Washington Redskins,342,1448,3751,5199
+2017,offense,Carolina Panthers,363,2102,3077,5179
+2017,offense,New York Giants,246,1549,3479,5028
+2017,offense,Arizona Cardinals,295,1386,3640,5026
+2017,offense,Green Bay Packers,320,1724,3167,4891
+2017,offense,Chicago Bears,264,1788,2811,4599
+2018,offense,Tampa Bay Buccaneers,294,1083,3914,4997
+2018,offense,Los Angeles Rams,389,1524,3411,4935
+2018,offense,New Orleans Saints,409,1464,3119,4583
+2018,offense,Atlanta Falcons,280,914,3486,4400
+2018,offense,Green Bay Packers,264,1170,3072,4242
+2018,offense,Carolina Panthers,287,1522,2556,4078
+2018,offense,Minnesota Vikings,265,938,3115,4053
+2018,offense,Seattle Seahawks,276,1618,2290,3908
+2018,offense,San Francisco 49ers,239,1484,2423,3907
+2018,offense,Philadelphia Eagles,230,1109,2784,3893
+2018,offense,New York Giants,237,1009,2855,3864
+2018,offense,Chicago Bears,317,1267,2576,3843
+2018,offense,Detroit Lions,238,1115,2655,3770
+2018,offense,Dallas Cowboys,234,1479,2195,3674
+2018,offense,Washington Redskins,220,1295,2351,3646
+2018,offense,Arizona Cardinals,155,850,1707,2557
+2008,defense,Philadelphia Eagles,289,1476,2913,4389
+2008,defense,Washington Redskins,296,1526,3095,4621
+2008,defense,New York Giants,294,1533,3139,4672
+2008,defense,Minnesota Vikings,333,1230,3449,4679
+2008,defense,Dallas Cowboys,365,1706,3003,4709
+2008,defense,Tampa Bay Buccaneers,323,1901,2997,4898
+2008,defense,San Francisco 49ers,381,1709,3507,5216
+2008,defense,Carolina Panthers,329,1912,3387,5299
+2008,defense,Arizona Cardinals,426,1764,3540,5304
+2008,defense,Green Bay Packers,380,2105,3244,5349
+2008,defense,Chicago Bears,350,1496,3859,5355
+2008,defense,New Orleans Saints,393,1885,3547,5432
+2008,defense,Atlanta Falcons,325,2046,3526,5572
+2008,defense,St. Louis Rams,465,2475,3475,5950
+2008,defense,Seattle Seahawks,392,1899,4149,6048
+2008,defense,Detroit Lions,517,2754,3716,6470
+2009,defense,Green Bay Packers,297,1333,3218,4551
+2009,defense,Minnesota Vikings,312,1394,3494,4888
+2009,defense,Carolina Panthers,308,1997,3056,5053
+2009,defense,Dallas Cowboys,250,1448,3606,5054
+2009,defense,Washington Redskins,336,1799,3316,5115
+2009,defense,Philadelphia Eagles,337,1675,3462,5137
+2009,defense,New York Giants,427,1773,3425,5198
+2009,defense,San Francisco 49ers,281,1552,3670,5222
+2009,defense,Chicago Bears,375,2022,3382,5404
+2009,defense,Arizona Cardinals,325,1804,3739,5543
+2009,defense,Atlanta Falcons,325,1711,3871,5582
+2009,defense,Seattle Seahawks,390,1776,3927,5703
+2009,defense,New Orleans Saints,341,1955,3769,5724
+2009,defense,Tampa Bay Buccaneers,400,2531,3318,5849
+2009,defense,St. Louis Rams,436,2201,3764,5965
+2009,defense,Detroit Lions,494,2025,4249,6274
+2010,defense,New Orleans Saints,307,1797,3103,4900
+2010,defense,Green Bay Packers,240,1838,3107,4945
+2010,defense,New York Giants,347,1620,3352,4972
+2010,defense,Minnesota Vikings,348,1635,3367,5002
+2010,defense,Chicago Bears,286,1441,3588,5029
+2010,defense,Philadelphia Eagles,377,1766,3469,5235
+2010,defense,San Francisco 49ers,346,1547,3697,5244
+2010,defense,Atlanta Falcons,288,1694,3625,5319
+2010,defense,Tampa Bay Buccaneers,318,2107,3216,5323
+2010,defense,Carolina Panthers,408,1981,3393,5374
+2010,defense,St. Louis Rams,328,1810,3578,5388
+2010,defense,Detroit Lions,369,1999,3498,5497
+2010,defense,Dallas Cowboys,436,1734,3894,5628
+2010,defense,Seattle Seahawks,407,1903,3994,5897
+2010,defense,Arizona Cardinals,434,2323,3654,5977
+2010,defense,Washington Redskins,377,2041,4187,6228
+2011,defense,San Francisco 49ers,229,1236,3695,4931
+2011,defense,Philadelphia Eagles,328,1801,3397,5198
+2011,defense,Seattle Seahawks,315,1797,3518,5315
+2011,defense,Atlanta Falcons,350,1552,3786,5338
+2011,defense,Washington Redskins,367,1884,3553,5437
+2011,defense,Dallas Cowboys,347,1585,3906,5491
+2011,defense,Chicago Bears,341,1542,4065,5607
+2011,defense,Arizona Cardinals,348,1986,3696,5682
+2011,defense,Minnesota Vikings,449,1712,4019,5731
+2011,defense,St. Louis Rams,407,2433,3301,5734
+2011,defense,Detroit Lions,387,2050,3831,5881
+2011,defense,New Orleans Saints,339,1738,4157,5895
+2011,defense,New York Giants,400,1940,4082,6022
+2011,defense,Carolina Panthers,429,2093,3949,6042
+2011,defense,Tampa Bay Buccaneers,494,2497,3814,6311
+2011,defense,Green Bay Packers,359,1789,4796,6585
+2012,defense,San Francisco 49ers,273,1507,3203,4710
+2012,defense,Seattle Seahawks,245,1649,3250,4899
+2012,defense,Chicago Bears,277,1627,3423,5050
+2012,defense,Carolina Panthers,363,1761,3568,5329
+2012,defense,Green Bay Packers,336,1896,3492,5388
+2012,defense,Arizona Cardinals,357,2192,3213,5405
+2012,defense,Detroit Lions,437,1889,3569,5458
+2012,defense,St. Louis Rams,348,1880,3602,5482
+2012,defense,Philadelphia Eagles,444,2021,3470,5491
+2012,defense,Minnesota Vikings,348,1692,3908,5600
+2012,defense,Dallas Cowboys,400,2003,3684,5687
+2012,defense,Atlanta Falcons,299,1971,3878,5849
+2012,defense,Washington Redskins,388,1532,4511,6043
+2012,defense,Tampa Bay Buccaneers,394,1320,4758,6078
+2012,defense,New York Giants,344,2066,4068,6134
+2012,defense,New Orleans Saints,454,2361,4681,7042
+2013,defense,Seattle Seahawks,231,1626,2752,4378
+2013,defense,Carolina Panthers,241,1391,3429,4820
+2013,defense,New Orleans Saints,304,1786,3105,4891
+2013,defense,San Francisco 49ers,272,1535,3536,5071
+2013,defense,Arizona Cardinals,324,1351,3728,5079
+2013,defense,New York Giants,383,1743,3573,5316
+2013,defense,St. Louis Rams,364,1646,3874,5520
+2013,defense,Detroit Lions,376,1596,3950,5546
+2013,defense,Tampa Bay Buccaneers,389,1762,3806,5568
+2013,defense,Washington Redskins,478,1769,3896,5665
+2013,defense,Green Bay Packers,428,2000,3956,5956
+2013,defense,Atlanta Falcons,443,2173,3897,6070
+2013,defense,Philadelphia Eagles,382,1668,4636,6304
+2013,defense,Chicago Bears,478,2583,3730,6313
+2013,defense,Minnesota Vikings,480,1767,4595,6362
+2013,defense,Dallas Cowboys,432,2056,4589,6645
+2014,defense,Seattle Seahawks,254,1304,2970,4274
+2014,defense,Detroit Lions,282,1109,3706,4815
+2014,defense,San Francisco 49ers,340,1612,3531,5143
+2014,defense,Carolina Panthers,374,1792,3645,5437
+2014,defense,Minnesota Vikings,343,1943,3572,5515
+2014,defense,Green Bay Packers,348,1919,3623,5542
+2014,defense,St. Louis Rams,354,1765,3861,5626
+2014,defense,Dallas Cowboys,352,1650,4031,5681
+2014,defense,Washington Redskins,438,1722,3990,5712
+2014,defense,Arizona Cardinals,299,1739,4152,5891
+2014,defense,Tampa Bay Buccaneers,410,1819,4084,5903
+2014,defense,Philadelphia Eagles,400,1771,4238,6009
+2014,defense,New York Giants,400,2162,3850,6012
+2014,defense,Chicago Bears,442,1803,4230,6033
+2014,defense,New Orleans Saints,424,2125,4019,6144
+2014,defense,Atlanta Falcons,417,1894,4478,6372
+2015,defense,Seattle Seahawks,277,1304,3364,4668
+2015,defense,Arizona Cardinals,313,1460,3687,5147
+2015,defense,Carolina Panthers,308,1415,3752,5167
+2015,defense,Tampa Bay Buccaneers,417,1606,3840,5446
+2015,defense,Minnesota Vikings,302,1748,3759,5507
+2015,defense,Chicago Bears,397,1934,3593,5527
+2015,defense,Green Bay Packers,323,1905,3642,5547
+2015,defense,Atlanta Falcons,345,1680,3882,5562
+2015,defense,Dallas Cowboys,374,1934,3632,5566
+2015,defense,Detroit Lions,400,1808,3786,5594
+2015,defense,St. Louis Rams,330,1820,4065,5885
+2015,defense,Washington Redskins,379,1962,4128,6090
+2015,defense,San Francisco 49ers,387,2020,4179,6199
+2015,defense,Philadelphia Eagles,430,2153,4273,6426
+2015,defense,New Orleans Saints,476,2071,4544,6615
+2015,defense,New York Giants,442,1942,4783,6725
+2016,defense,Arizona Cardinals,362,1518,3365,4883
+2016,defense,Minnesota Vikings,307,1711,3327,5038
+2016,defense,Seattle Seahawks,292,1487,3612,5099
+2016,defense,Los Angeles Rams,394,1660,3732,5392
+2016,defense,New York Giants,284,1417,4018,5435
+2016,defense,Philadelphia Eagles,331,1652,3832,5484
+2016,defense,Dallas Cowboys,306,1336,4167,5503
+2016,defense,Chicago Bears,399,1950,3598,5548
+2016,defense,Detroit Lions,358,1701,3975,5676
+2016,defense,Carolina Panthers,402,1465,4291,5756
+2016,defense,Green Bay Packers,388,1515,4308,5823
+2016,defense,Tampa Bay Buccaneers,369,1875,4012,5887
+2016,defense,Atlanta Falcons,406,1672,4267,5939
+2016,defense,New Orleans Saints,454,1626,4380,6006
+2016,defense,Washington Redskins,383,1916,4130,6046
+2016,defense,San Francisco 49ers,480,2654,3848,6502
+2017,defense,Minnesota Vikings,252,1337,3078,4415
+2017,defense,Philadelphia Eagles,295,1267,3637,4904
+2017,defense,Arizona Cardinals,361,1434,3541,4975
+2017,defense,Carolina Panthers,327,1409,3665,5074
+2017,defense,Dallas Cowboys,332,1664,3425,5089
+2017,defense,Atlanta Falcons,315,1665,3429,5094
+2017,defense,Chicago Bears,320,1730,3376,5106
+2017,defense,Seattle Seahawks,332,1824,3347,5171
+2017,defense,New Orleans Saints,326,1787,3597,5384
+2017,defense,Los Angeles Rams,329,1957,3475,5432
+2017,defense,Washington Redskins,388,2146,3420,5566
+2017,defense,Green Bay Packers,384,1793,3789,5582
+2017,defense,San Francisco 49ers,383,1861,3764,5625
+2017,defense,Detroit Lions,376,1800,3892,5692
+2017,defense,New York Giants,388,1933,4038,5971
+2017,defense,Tampa Bay Buccaneers,382,1880,4169,6049
+2018,defense,Minnesota Vikings,246,1030,2432,3462
+2018,defense,Chicago Bears,211,889,2588,3477
+2018,defense,Dallas Cowboys,213,1030,2612,3642
+2018,defense,San Francisco 49ers,293,1130,2724,3854
+2018,defense,Green Bay Packers,267,1352,2555,3907
+2018,defense,Detroit Lions,286,1288,2622,3910
+2018,defense,Carolina Panthers,282,1060,2861,3921
+2018,defense,New Orleans Saints,256,805,3143,3948
+2018,defense,Seattle Seahawks,243,1335,2622,3957
+2018,defense,Washington Redskins,229,1103,2870,3973
+2018,defense,Arizona Cardinals,293,1593,2418,4011
+2018,defense,Los Angeles Rams,282,1319,2779,4098
+2018,defense,New York Giants,288,1381,2775,4156
+2018,defense,Philadelphia Eagles,253,1140,3041,4181
+2018,defense,Tampa Bay Buccaneers,338,1284,3017,4301
+2018,defense,Atlanta Falcons,307,1361,3003,4364
